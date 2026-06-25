@@ -9,18 +9,15 @@ The book is at: https://github.com/mzfrank/ECF/blob/main/ECF_2026_May.pdf
 
 ## What this book is
 
+This book grew out of the doctoral empirical corporate finance sequence at the Carlson School, taught regularly at least since 2009. This is not a survey of literatures from a distance. The aim is to help the student build judgment as they move from being a consumer of research to becoming a producer. The idea is to help smooth that path.
+
+The materials covered are central to the empirical corporate finance literature. This book is written because there is no graduate level empirical corporate finance textbook. So over the years I wrote many handouts and teaching materials. Here I draw them together as a single coherent project. Claude Opus was very helpful both with unifying what I had and with improving the writing and generating nicely commented coding materials. This book covers what a corporate finance researcher should know about both the structural and the causal traditions and how to choose between them. That is the gap this book aims to fill. There has been variation for year to year in what topics are covered. Partly that reflects changes in the literature. As a result there are more chapters in the
+book than I actually assign in class.
+
 Every empirical paper in corporate finance is trying to recover one of a small number of objects. It may be a descriptive regularity, a prediction, a causal effect, a structural primitive, or a counterfactual. 
 The object dictates the assumptions, the assumptions dictate the method, and the method determines what the estimate means. A regression coefficient is not a treatment effect. A treatment effect is not a 
 structural parameter. A structural parameter is not, by itself, a claim about any observable variation. Confusing these objects is one of the most common sources of miscommunication. It is also readily 
 corrected by being clear about what is being assumed. Often assumptions are left implicit, and that is a cause of considerable confusion. 
-
-This book grew out of the doctoral empirical corporate finance sequence at the Carlson School, taught regularly at least since 2009. This book keeps the aim of those courses. This is not a survey 
-of literatures from a distance. The aim is to help the student build judgment as they move from being a consumer of research to becoming a producer. That is a hard step to take for many students.
-
-The materials covered here are from the literature. This book is written because there is no graduate level empirical corporate finance textbook. So over the years I wrote many handouts and teaching 
-materials. Here I draw them together as a single coherent project. It voers what a corporate finance researcher should know about both the structural and the causal traditions and how to choose between them. 
-That is the gap this book aims to fill. There has been variation for year to year in what topics are covered. Partly that reflects changes in the literature. As a result there are more chapters in the
-book than I actually assign in class.
 
 A second idea runs through the applications. The chapters on investment, financial constraints, capital structure, and payout are usually taught as separate literatures with separate canonical papers. 
 This book treats them instead as connected margins of one object. It is the shadow value of internal funds, the multiplier on the firm's budget constraint in any dynamic model where external finance is 
