@@ -4,6 +4,7 @@
 
 Murray Z. Frank · Carlson School of Management, University of Minnesota
 
+The book is at: https://github.com/mzfrank/ECF/blob/main/ECF_2026_May.pdf
 ---
 
 ## What this book is
