@@ -9,7 +9,7 @@ The book is at: https://github.com/mzfrank/ECF/blob/main/ECF_2026_May.pdf
 
 ## What this book is
 
-This book grew out of graduate empirical corporate finance teaching at the Carlson School. I have taught this regularly since 2009. The aim is to help the student build judgment and a toolkit as they move from being a consumer of research to becoming a producer. 
+This book is still a work in progress. It grew out of graduate empirical corporate finance teaching at the Carlson School. I have taught this regularly since 2009. The aim is to help the student build judgment and a toolkit as they move from being a consumer of research to becoming a producer. 
 
 The materials covered are central to the empirical corporate finance literature. This book is written because there is no graduate level empirical corporate finance textbook. So over the years I wrote many handouts and teaching materials. Here I draw them together as a single coherent project.  This book covers what a corporate finance researcher should know about both the structural and the causal traditions and how to choose between them. That is the gap this book aims to fill. There has been variation for year to year in what topics are covered. Partly that reflects changes in the literature. As a result there are more chapters in the
 book than I actually assign in class.
