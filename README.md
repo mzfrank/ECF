@@ -9,9 +9,9 @@ The book is at: https://github.com/mzfrank/ECF/blob/main/ECF_2026_May.pdf
 
 ## What this book is
 
-This book grew out of the doctoral empirical corporate finance sequence at the Carlson School, taught regularly at least since 2009. This is not a survey of literatures from a distance. The aim is to help the student build judgment as they move from being a consumer of research to becoming a producer. The idea is to help smooth that path.
+This book grew out of graduate empirical corporate finance teaching at the Carlson School. I have taught this regularly since 2009. The aim is to help the student build judgment and a toolkit as they move from being a consumer of research to becoming a producer. 
 
-The materials covered are central to the empirical corporate finance literature. This book is written because there is no graduate level empirical corporate finance textbook. So over the years I wrote many handouts and teaching materials. Here I draw them together as a single coherent project. Claude Opus was very helpful both with unifying what I had and with improving the writing and generating nicely commented coding materials. This book covers what a corporate finance researcher should know about both the structural and the causal traditions and how to choose between them. That is the gap this book aims to fill. There has been variation for year to year in what topics are covered. Partly that reflects changes in the literature. As a result there are more chapters in the
+The materials covered are central to the empirical corporate finance literature. This book is written because there is no graduate level empirical corporate finance textbook. So over the years I wrote many handouts and teaching materials. Here I draw them together as a single coherent project.  This book covers what a corporate finance researcher should know about both the structural and the causal traditions and how to choose between them. That is the gap this book aims to fill. There has been variation for year to year in what topics are covered. Partly that reflects changes in the literature. As a result there are more chapters in the
 book than I actually assign in class.
 
 Every empirical paper in corporate finance is trying to recover one of a small number of objects. It may be a descriptive regularity, a prediction, a causal effect, a structural primitive, or a counterfactual. 
@@ -73,7 +73,7 @@ so many lenses is not that the estimates should agree. They recover different ob
 
 The empirical work is reproducible. A master Compustat panel is being built early and augmented with CRSP, FHFA, ISS, and other sources as later chapters require them. Both Stata and Python are used. The dynamic 
 simulations and structural estimation are Python only. Stata replication files are used for reduced form and causal exercises, where Stata matches common practice in the literature. A random seed of 8823 is used 
-throughout, so a reader who runs the code sees the same numbers that appear in the text.
+throughout, so a reader who runs the code sees the same numbers that appear in the text. 
 
 ## What is in this repository
 
@@ -89,6 +89,7 @@ topics. But we cannot do everything.
 
 ## Status and feedback
 
+Claude Opus was very helpful with unifying my teaching materials, improving the writing, and with generating nicely commented coding materials. I alone am responsible for the content and for the mistakes.
 This is a working draft, posted publicly while the book is being finished. Errors are inevitable in a project of this scope. If you find one, or have a suggestion, please get in touch: murra280@umn.edu.
 
 Murray Z. Frank · Minneapolis, Minnesota
