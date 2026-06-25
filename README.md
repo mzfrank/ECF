@@ -48,8 +48,8 @@ companion. Princeton university press; and by Cochrane, 2009. Asset pricing: Rev
 - Difference-in-Differences
 - Machine Learning
 
-**Part III — Frictions and the Shadow Value of Internal Funds.** Applications. The first four chapters study connected margins of the same object. The rest turn to other important corporate finance topics. 
-Each chapter presupposes Part I but is otherwise self-contained.
+**Part III — Applications.** The first four chapters study connected margins of the same object. The rest turn to other important corporate finance topics. 
+Each chapter presupposes Part I and makes use of the methods in Part II but is otherwise self contained.
 - Investment
 - Financial Constraints
 - Capital Structure
